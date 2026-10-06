@@ -6,7 +6,7 @@
   --ink: #241F24;
   --burgundy: #722F37;
   --olive: #88963b;
-  --Ochre: #C69A3B;
+  --ochre: #C69A3B;
 
   --background: var(--cream);
   --foreground: var(--ink);
@@ -21,7 +21,7 @@
   --color-ink: var(--ink);
   --color-burgundy: var(--burgundy);
   --color-olive: var(--olive);
-  --color-Ochre: var(--Ochre);
+  --color-ochre: var(--ochre);
 }
 
 
